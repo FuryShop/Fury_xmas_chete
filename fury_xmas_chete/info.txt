@@ -7,7 +7,7 @@ Creation date: 20-12-2024
 -- add
 
 ['WEAPON_FURY_XMAS_CHETE'] = {
-	label = 'Wrench',
+	label = 'Xmas Chete',
 	weight = 2500,
 	durability = 0.1,
 },
