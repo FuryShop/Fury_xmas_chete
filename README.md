@@ -13,6 +13,8 @@ Creation date: 20-12-2024
 	weight = 2500,
 	durability = 0.1,
 },
+
+Inventory image present in the folder
  
 Only tested on OX-INVENTORY
 - No support for other inventories
